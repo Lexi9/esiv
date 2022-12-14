@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Cargo Jacket and Pant",
+        "price": 30000.00,
+        "image": { "fields": { "file": { "url": "./images/cargoJacketPant4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "SweatShirt",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/sweatShirt.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Shirt and Short",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/shirtShort.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Sweat Shirt and Jogger",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/sweatShirtJogger.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Sweat Shirt and Jogger",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/sweatShirtJogger2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Cargo Jacket and Pant",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/cargoJacketPant.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Cargo Jacket and Pant 2",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/cargoJacketPant2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Cargo Jacket and Pant 3",
+        "price": 15000.00,
+        "image": { "fields": { "file": { "url": "./images/cargoJacketPant3.png" } } }
+      }
+    }
+  ]
+}
